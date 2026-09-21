@@ -255,3 +255,6 @@ ModelManifest.xml
 
 #zip
 *.zip
+
+# Build output (assembly is produced into GameData by the csproj OutputPath)
+GameData/KerbalKonstructs/KerbalKonstructs.dll
